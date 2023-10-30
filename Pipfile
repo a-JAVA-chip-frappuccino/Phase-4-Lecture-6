@@ -10,6 +10,7 @@ Flask-SQLAlchemy = "2.5.1"
 importlib-resources = "5.10.0"
 sqlalchemy-serializer = "*"
 flask-cors = "*"
+Flask-RESTful = "0.3.9"
 
 [requires]
 python_full_version = "3.8.13"
